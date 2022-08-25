@@ -1,10 +1,10 @@
 {
-    "July 2022 - August 2022":{
-        "floor9":{
-            "chamber1":{
+    "July 16, 2022 - September 1, 2022": {
+        "floor9": {
+            "chamber1": {
                 "enemyLevel":"72",
-                "firstHalf":{
-                    "enemies":[
+                "firstHalf": {
+                    "enemies": [
                         {
                             "nameCn":"大型水史莱姆",
                             "biligameUrl":"https://wiki.biligame.com/ys/大型水史莱姆"
@@ -31,8 +31,8 @@
                         }
                     ]
                 },
-                "secondHalf":{
-                    "enemies":[
+                "secondHalf": {
+                    "enemies": [
                         {
                             "nameCn":"火斧丘丘暴徒",
                             "biligameUrl":"https://wiki.biligame.com/ys/火斧丘丘暴徒"
@@ -52,10 +52,10 @@
                     ]
                 }
             },
-            "chamber2":{
+            "chamber2": {
                 "enemyLevel":"74",
-                "firstHalf":{
-                    "enemies":[
+                "firstHalf": {
+                    "enemies": [
                         {
                             "nameCn":"愚人众先遣队·冰铳重卫士",
                             "biligameUrl":"https://wiki.biligame.com/ys/愚人众先遣队·冰铳重卫士"
@@ -78,8 +78,8 @@
                         }
                     ]
                 },
-                "secondHalf":{
-                    "enemies":[
+                "secondHalf": {
+                    "enemies": [
                         {
                             "nameCn":"盗宝团·拳术家",
                             "biligameUrl":"https://wiki.biligame.com/ys/盗宝团·拳术家"
@@ -123,10 +123,10 @@
                     ]
                 }
             },
-            "chamber3":{
+            "chamber3": {
                 "enemyLevel":"76",
-                "firstHalf":{
-                    "enemies":[
+                "firstHalf": {
+                    "enemies": [
                         {
                             "nameCn":"丘丘岩盔王",
                             "biligameUrl":"https://wiki.biligame.com/ys/丘丘岩盔王"
@@ -137,8 +137,8 @@
                         }
                     ]
                 },
-                "secondHalf":{
-                    "enemies":[
+                "secondHalf": {
+                    "enemies": [
                         {
                             "nameCn":"愚人众·雷萤术士",
                             "biligameUrl":"https://wiki.biligame.com/ys/愚人众·雷萤术士"
@@ -151,11 +151,11 @@
                 }
             }
         },
-        "floor10":{
-            "chamber1":{
+        "floor10": {
+            "chamber1": {
                 "enemyLevel":"80",
-                "firstHalf":{
-                    "enemies":[
+                "firstHalf": {
+                    "enemies": [
                         {
                             "nameCn":"火斧丘丘暴徒",
                             "biligameUrl":"https://wiki.biligame.com/ys/火斧丘丘暴徒"
@@ -190,8 +190,8 @@
                         }
                     ]
                 },
-                "secondHalf":{
-                    "enemies":[
+                "secondHalf": {
+                    "enemies": [
                         {
                             "nameCn":"丘丘岩盔王",
                             "biligameUrl":"https://wiki.biligame.com/ys/丘丘岩盔王"
@@ -207,10 +207,10 @@
                     ]
                 }
             },
-            "chamber2":{
+            "chamber2": {
                 "enemyLevel":"82",
-                "firstHalf":{
-                    "enemies":[
+                "firstHalf": {
+                    "enemies": [
                         {
                             "nameCn":"愚人众·火之债务处理人",
                             "biligameUrl":"https://wiki.biligame.com/ys/愚人众·火之债务处理人"
@@ -229,8 +229,8 @@
                         }
                     ]
                 },
-                "secondHalf":{
-                    "enemies":[
+                "secondHalf": {
+                    "enemies": [
                         {
                             "nameCn":"愚人众·雷萤术士",
                             "biligameUrl":"https://wiki.biligame.com/ys/愚人众·雷萤术士"
@@ -250,10 +250,10 @@
                     ]
                 }
             },
-            "chamber3":{
+            "chamber3": {
                 "enemyLevel":"85",
-                "firstHalf":{
-                    "enemies":[
+                "firstHalf": {
+                    "enemies": [
                         {
                             "nameCn":"深渊咏者·紫电",
                             "biligameUrl":"https://wiki.biligame.com/ys/深渊咏者·紫电"
@@ -268,8 +268,8 @@
                         }
                     ]
                 },
-                "secondHalf":{
-                    "enemies":[
+                "secondHalf": {
+                    "enemies": [
                         {
                             "nameCn":"深渊使徒·激流",
                             "biligameUrl":"https://wiki.biligame.com/ys/深渊使徒·激流"
@@ -282,11 +282,11 @@
                 }
             }
         },
-        "floor11":{
-            "chamber1":{
+        "floor11": {
+            "chamber1": {
                 "enemyLevel":"88",
-                "firstHalf":{
-                    "enemies":[
+                "firstHalf": {
+                    "enemies": [
                         {
                             "nameCn":"大型冰史莱姆",
                             "biligameUrl":"https://wiki.biligame.com/ys/大型冰史莱姆"
@@ -309,8 +309,8 @@
                         }
                     ]
                 },
-                "secondHalf":{
-                    "enemies":[
+                "secondHalf": {
+                    "enemies": [
                         {
                             "nameCn":"盗宝团·粉碎者",
                             "biligameUrl":"https://wiki.biligame.com/ys/盗宝团·粉碎者"
@@ -346,10 +346,10 @@
                     ]
                 }
             },
-            "chamber2":{
+            "chamber2": {
                 "enemyLevel":"90",
-                "firstHalf":{
-                    "enemies":[
+                "firstHalf": {
+                    "enemies": [
                         {
                             "nameCn":"冰飘浮灵",
                             "biligameUrl":"https://wiki.biligame.com/ys/冰飘浮灵"
@@ -372,8 +372,8 @@
                         }
                     ]
                 },
-                "secondHalf":{
-                    "enemies":[
+                "secondHalf": {
+                    "enemies": [
                         {
                             "nameCn":"愚人众先遣队·冰铳重卫士",
                             "biligameUrl":"https://wiki.biligame.com/ys/愚人众先遣队·冰铳重卫士"
@@ -401,18 +401,18 @@
                     ]
                 }
             },
-            "chamber3":{
+            "chamber3": {
                 "enemyLevel":"92",
-                "firstHalf":{
-                    "enemies":[
+                "firstHalf": {
+                    "enemies": [
                         {
                             "nameCn":"雷音权现",
                             "biligameUrl":"https://wiki.biligame.com/ys/雷音权现"
                         }
                     ]
                 },
-                "secondHalf":{
-                    "enemies":[
+                "secondHalf": {
+                    "enemies": [
                         {
                             "nameCn":"雷深渊法师",
                             "biligameUrl":"https://wiki.biligame.com/ys/雷深渊法师"
@@ -429,11 +429,11 @@
                 }
             }
         },
-        "floor12":{
-            "chamber1":{
+        "floor12": {
+            "chamber1": {
                 "enemyLevel":"95",
-                "firstHalf":{
-                    "enemies":[
+                "firstHalf": {
+                    "enemies": [
                         {
                             "nameCn":"冰盾丘丘人",
                             "biligameUrl":"https://wiki.biligame.com/ys/冰盾丘丘人"
@@ -464,8 +464,8 @@
                         }
                     ]
                 },
-                "secondHalf":{
-                    "enemies":[
+                "secondHalf": {
+                    "enemies": [
                         {
                             "nameCn":"野伏·火付番",
                             "biligameUrl":"https://wiki.biligame.com/ys/野伏·火付番"
@@ -489,18 +489,18 @@
                     ]
                 }
             },
-            "chamber2":{
+            "chamber2": {
                 "enemyLevel":"98",
-                "firstHalf":{
-                    "enemies":[
+                "firstHalf": {
+                    "enemies": [
                         {
                             "nameCn":"无相之冰",
                             "biligameUrl":"https://wiki.biligame.com/ys/无相之冰"
                         }
                     ]
                 },
-                "secondHalf":{
-                    "enemies":[
+                "secondHalf": {
+                    "enemies": [
                         {
                             "nameCn":"遗迹巡弋者",
                             "biligameUrl":"https://wiki.biligame.com/ys/遗迹巡弋者"
@@ -520,10 +520,10 @@
                     ]
                 }
             },
-            "chamber3":{
+            "chamber3": {
                 "enemyLevel":"100",
-                "firstHalf":{
-                    "enemies":[
+                "firstHalf": {
+                    "enemies": [
                         {
                             "nameCn":"愚人众·藏镜仕女",
                             "biligameUrl":"https://wiki.biligame.com/ys/愚人众·藏镜仕女"
@@ -534,8 +534,8 @@
                         }
                     ]
                 },
-                "secondHalf":{
-                    "enemies":[
+                "secondHalf": {
+                    "enemies": [
                         {
                             "nameCn":"遗迹巨蛇",
                             "biligameUrl":"https://wiki.biligame.com/ys/遗迹巨蛇"
