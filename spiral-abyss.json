@@ -2,7 +2,7 @@
     "July 16, 2022 - September 1, 2022": {
         "floor9": {
             "chamber1": {
-                "enemyLevel":"72",
+                "enemyLevel": 72,
                 "firstHalf": {
                     "enemies": [
                         {
@@ -53,7 +53,7 @@
                 }
             },
             "chamber2": {
-                "enemyLevel":"74",
+                "enemyLevel": 74,
                 "firstHalf": {
                     "enemies": [
                         {
@@ -124,7 +124,7 @@
                 }
             },
             "chamber3": {
-                "enemyLevel":"76",
+                "enemyLevel": 76,
                 "firstHalf": {
                     "enemies": [
                         {
@@ -153,7 +153,7 @@
         },
         "floor10": {
             "chamber1": {
-                "enemyLevel":"80",
+                "enemyLevel": 80,
                 "firstHalf": {
                     "enemies": [
                         {
@@ -208,7 +208,7 @@
                 }
             },
             "chamber2": {
-                "enemyLevel":"82",
+                "enemyLevel": 82,
                 "firstHalf": {
                     "enemies": [
                         {
@@ -251,7 +251,7 @@
                 }
             },
             "chamber3": {
-                "enemyLevel":"85",
+                "enemyLevel": 85,
                 "firstHalf": {
                     "enemies": [
                         {
@@ -284,7 +284,7 @@
         },
         "floor11": {
             "chamber1": {
-                "enemyLevel":"88",
+                "enemyLevel": 88,
                 "firstHalf": {
                     "enemies": [
                         {
@@ -347,7 +347,7 @@
                 }
             },
             "chamber2": {
-                "enemyLevel":"90",
+                "enemyLevel": 90,
                 "firstHalf": {
                     "enemies": [
                         {
@@ -402,7 +402,7 @@
                 }
             },
             "chamber3": {
-                "enemyLevel":"92",
+                "enemyLevel": 92,
                 "firstHalf": {
                     "enemies": [
                         {
@@ -431,7 +431,7 @@
         },
         "floor12": {
             "chamber1": {
-                "enemyLevel":"95",
+                "enemyLevel": 95,
                 "firstHalf": {
                     "enemies": [
                         {
@@ -490,7 +490,7 @@
                 }
             },
             "chamber2": {
-                "enemyLevel":"98",
+                "enemyLevel": 98,
                 "firstHalf": {
                     "enemies": [
                         {
@@ -521,7 +521,7 @@
                 }
             },
             "chamber3": {
-                "enemyLevel":"100",
+                "enemyLevel": 100,
                 "firstHalf": {
                     "enemies": [
                         {
