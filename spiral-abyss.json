@@ -6,48 +6,48 @@
                 "firstHalf": {
                     "enemies": [
                         {
-                            "nameCn":"大型水史莱姆",
-                            "biligameUrl":"https://wiki.biligame.com/ys/大型水史莱姆"
+                            "nameCn": "大型水史莱姆",
+                            "biligameUrl": "https://wiki.biligame.com/ys/大型水史莱姆"
                         },
                         {
-                            "nameCn":"雷箭丘丘人",
-                            "biligameUrl":"https://wiki.biligame.com/ys/雷箭丘丘人"
+                            "nameCn": "雷箭丘丘人",
+                            "biligameUrl": "https://wiki.biligame.com/ys/雷箭丘丘人"
                         },
                         {
-                            "nameCn":"冰箭丘丘人",
-                            "biligameUrl":"https://wiki.biligame.com/ys/冰箭丘丘人"
+                            "nameCn": "冰箭丘丘人",
+                            "biligameUrl": "https://wiki.biligame.com/ys/冰箭丘丘人"
                         },
                         {
-                            "nameCn":"木盾丘丘暴徒",
-                            "biligameUrl":"https://wiki.biligame.com/ys/木盾丘丘暴徒"
+                            "nameCn": "木盾丘丘暴徒",
+                            "biligameUrl": "https://wiki.biligame.com/ys/木盾丘丘暴徒"
                         },
                         {
-                            "nameCn":"水丘丘萨满",
-                            "biligameUrl":"https://wiki.biligame.com/ys/水丘丘萨满"
+                            "nameCn": "水丘丘萨满",
+                            "biligameUrl": "https://wiki.biligame.com/ys/水丘丘萨满"
                         },
                         {
-                            "nameCn":"风丘丘萨满",
-                            "biligameUrl":"https://wiki.biligame.com/ys/风丘丘萨满"
+                            "nameCn": "风丘丘萨满",
+                            "biligameUrl": "https://wiki.biligame.com/ys/风丘丘萨满"
                         }
                     ]
                 },
                 "secondHalf": {
                     "enemies": [
                         {
-                            "nameCn":"火斧丘丘暴徒",
-                            "biligameUrl":"https://wiki.biligame.com/ys/火斧丘丘暴徒"
+                            "nameCn": "火斧丘丘暴徒",
+                            "biligameUrl": "https://wiki.biligame.com/ys/火斧丘丘暴徒"
                         },
                         {
-                            "nameCn":"雷斧丘丘暴徒",
-                            "biligameUrl":"https://wiki.biligame.com/ys/雷斧丘丘暴徒"
+                            "nameCn": "雷斧丘丘暴徒",
+                            "biligameUrl": "https://wiki.biligame.com/ys/雷斧丘丘暴徒"
                         },
                         {
-                            "nameCn":"雷丘丘萨满",
-                            "biligameUrl":"https://wiki.biligame.com/ys/雷丘丘萨满"
+                            "nameCn": "雷丘丘萨满",
+                            "biligameUrl": "https://wiki.biligame.com/ys/雷丘丘萨满"
                         },
                         {
-                            "nameCn":"水深渊法师",
-                            "biligameUrl":"https://wiki.biligame.com/ys/水深渊法师"
+                            "nameCn": "水深渊法师",
+                            "biligameUrl": "https://wiki.biligame.com/ys/水深渊法师"
                         }
                     ]
                 }
@@ -57,68 +57,68 @@
                 "firstHalf": {
                     "enemies": [
                         {
-                            "nameCn":"愚人众先遣队·冰铳重卫士",
-                            "biligameUrl":"https://wiki.biligame.com/ys/愚人众先遣队·冰铳重卫士"
+                            "nameCn": "愚人众先遣队·冰铳重卫士",
+                            "biligameUrl": "https://wiki.biligame.com/ys/愚人众先遣队·冰铳重卫士"
                         },
                         {
-                            "nameCn":"愚人众先遣队·水铳重卫士",
-                            "biligameUrl":"https://wiki.biligame.com/ys/愚人众先遣队·水铳重卫士"
+                            "nameCn": "愚人众先遣队·水铳重卫士",
+                            "biligameUrl": "https://wiki.biligame.com/ys/愚人众先遣队·水铳重卫士"
                         },
                         {
-                            "nameCn":"愚人众先遣队·风拳前锋军",
-                            "biligameUrl":"https://wiki.biligame.com/ys/愚人众先遣队·风拳前锋军"
+                            "nameCn": "愚人众先遣队·风拳前锋军",
+                            "biligameUrl": "https://wiki.biligame.com/ys/愚人众先遣队·风拳前锋军"
                         },
                         {
-                            "nameCn":"愚人众先遣队·岩使游击兵",
-                            "biligameUrl":"https://wiki.biligame.com/ys/愚人众先遣队·岩使游击兵"
+                            "nameCn": "愚人众先遣队·岩使游击兵",
+                            "biligameUrl": "https://wiki.biligame.com/ys/愚人众先遣队·岩使游击兵"
                         },
                         {
-                            "nameCn":"愚人众先遣队·雷锤前锋军",
-                            "biligameUrl":"https://wiki.biligame.com/ys/愚人众先遣队·雷锤前锋军"
+                            "nameCn": "愚人众先遣队·雷锤前锋军",
+                            "biligameUrl": "https://wiki.biligame.com/ys/愚人众先遣队·雷锤前锋军"
                         }
                     ]
                 },
                 "secondHalf": {
                     "enemies": [
                         {
-                            "nameCn":"盗宝团·拳术家",
-                            "biligameUrl":"https://wiki.biligame.com/ys/盗宝团·拳术家"
+                            "nameCn": "盗宝团·拳术家",
+                            "biligameUrl": "https://wiki.biligame.com/ys/盗宝团·拳术家"
                         },
                         {
-                            "nameCn":"盗宝团·火之药剂师",
-                            "biligameUrl":"https://wiki.biligame.com/ys/盗宝团·火之药剂师"
+                            "nameCn": "盗宝团·火之药剂师",
+                            "biligameUrl": "https://wiki.biligame.com/ys/盗宝团·火之药剂师"
                         },
                         {
-                            "nameCn":"盗宝团·雷之药剂师",
-                            "biligameUrl":"https://wiki.biligame.com/ys/盗宝团·雷之药剂师"
+                            "nameCn": "盗宝团·雷之药剂师",
+                            "biligameUrl": "https://wiki.biligame.com/ys/盗宝团·雷之药剂师"
                         },
                         {
-                            "nameCn":"盗宝团·神射手",
-                            "biligameUrl":"https://wiki.biligame.com/ys/盗宝团·神射手"
+                            "nameCn": "盗宝团·神射手",
+                            "biligameUrl": "https://wiki.biligame.com/ys/盗宝团·神射手"
                         },
                         {
-                            "nameCn":"盗宝团·粉碎者",
-                            "biligameUrl":"https://wiki.biligame.com/ys/盗宝团·粉碎者"
+                            "nameCn": "盗宝团·粉碎者",
+                            "biligameUrl": "https://wiki.biligame.com/ys/盗宝团·粉碎者"
                         },
                         {
-                            "nameCn":"盗宝团·水之药剂师",
-                            "biligameUrl":"https://wiki.biligame.com/ys/盗宝团·水之药剂师"
+                            "nameCn": "盗宝团·水之药剂师",
+                            "biligameUrl": "https://wiki.biligame.com/ys/盗宝团·水之药剂师"
                         },
                         {
-                            "nameCn":"盗宝团·冰之药剂师",
-                            "biligameUrl":"https://wiki.biligame.com/ys/盗宝团·冰之药剂师"
+                            "nameCn": "盗宝团·冰之药剂师",
+                            "biligameUrl": "https://wiki.biligame.com/ys/盗宝团·冰之药剂师"
                         },
                         {
-                            "nameCn":"盗宝团·海上男儿",
-                            "biligameUrl":"https://wiki.biligame.com/ys/盗宝团·海上男儿"
+                            "nameCn": "盗宝团·海上男儿",
+                            "biligameUrl": "https://wiki.biligame.com/ys/盗宝团·海上男儿"
                         },
                         {
-                            "nameCn":"盗宝团·掘墓者",
-                            "biligameUrl":"https://wiki.biligame.com/ys/盗宝团·掘墓者"
+                            "nameCn": "盗宝团·掘墓者",
+                            "biligameUrl": "https://wiki.biligame.com/ys/盗宝团·掘墓者"
                         },
                         {
-                            "nameCn":"盗宝团·杂工",
-                            "biligameUrl":"https://wiki.biligame.com/ys/盗宝团·杂工"
+                            "nameCn": "盗宝团·杂工",
+                            "biligameUrl": "https://wiki.biligame.com/ys/盗宝团·杂工"
                         }
                     ]
                 }
@@ -128,24 +128,24 @@
                 "firstHalf": {
                     "enemies": [
                         {
-                            "nameCn":"丘丘岩盔王",
-                            "biligameUrl":"https://wiki.biligame.com/ys/丘丘岩盔王"
+                            "nameCn": "丘丘岩盔王",
+                            "biligameUrl": "https://wiki.biligame.com/ys/丘丘岩盔王"
                         },
                         {
-                            "nameCn":"丘丘霜铠王",
-                            "biligameUrl":"https://wiki.biligame.com/ys/丘丘霜铠王"
+                            "nameCn": "丘丘霜铠王",
+                            "biligameUrl": "https://wiki.biligame.com/ys/丘丘霜铠王"
                         }
                     ]
                 },
                 "secondHalf": {
                     "enemies": [
                         {
-                            "nameCn":"愚人众·雷萤术士",
-                            "biligameUrl":"https://wiki.biligame.com/ys/愚人众·雷萤术士"
+                            "nameCn": "愚人众·雷萤术士",
+                            "biligameUrl": "https://wiki.biligame.com/ys/愚人众·雷萤术士"
                         },
                         {
-                            "nameCn":"愚人众·火之债务处理人",
-                            "biligameUrl":"https://wiki.biligame.com/ys/愚人众·火之债务处理人"
+                            "nameCn": "愚人众·火之债务处理人",
+                            "biligameUrl": "https://wiki.biligame.com/ys/愚人众·火之债务处理人"
                         }
                     ]
                 }
@@ -157,52 +157,52 @@
                 "firstHalf": {
                     "enemies": [
                         {
-                            "nameCn":"火斧丘丘暴徒",
-                            "biligameUrl":"https://wiki.biligame.com/ys/火斧丘丘暴徒"
+                            "nameCn": "火斧丘丘暴徒",
+                            "biligameUrl": "https://wiki.biligame.com/ys/火斧丘丘暴徒"
                         },
                         {
-                            "nameCn":"雷箭丘丘人",
-                            "biligameUrl":"https://wiki.biligame.com/ys/雷箭丘丘人"
+                            "nameCn": "雷箭丘丘人",
+                            "biligameUrl": "https://wiki.biligame.com/ys/雷箭丘丘人"
                         },
                         {
-                            "nameCn":"冰箭丘丘人",
-                            "biligameUrl":"https://wiki.biligame.com/ys/冰箭丘丘人"
+                            "nameCn": "冰箭丘丘人",
+                            "biligameUrl": "https://wiki.biligame.com/ys/冰箭丘丘人"
                         },
                         {
-                            "nameCn":"雷深渊法师",
-                            "biligameUrl":"https://wiki.biligame.com/ys/雷深渊法师"
+                            "nameCn": "雷深渊法师",
+                            "biligameUrl": "https://wiki.biligame.com/ys/雷深渊法师"
                         },
                         {
-                            "nameCn":"水丘丘萨满",
-                            "biligameUrl":"https://wiki.biligame.com/ys/水丘丘萨满"
+                            "nameCn": "水丘丘萨满",
+                            "biligameUrl": "https://wiki.biligame.com/ys/水丘丘萨满"
                         },
                         {
-                            "nameCn":"风丘丘萨满",
-                            "biligameUrl":"https://wiki.biligame.com/ys/风丘丘萨满"
+                            "nameCn": "风丘丘萨满",
+                            "biligameUrl": "https://wiki.biligame.com/ys/风丘丘萨满"
                         },
                         {
-                            "nameCn":"草丘丘萨满",
-                            "biligameUrl":"https://wiki.biligame.com/ys/草丘丘萨满"
+                            "nameCn": "草丘丘萨满",
+                            "biligameUrl": "https://wiki.biligame.com/ys/草丘丘萨满"
                         },
                         {
-                            "nameCn":"火箭丘丘人",
-                            "biligameUrl":"https://wiki.biligame.com/ys/火箭丘丘人"
+                            "nameCn": "火箭丘丘人",
+                            "biligameUrl": "https://wiki.biligame.com/ys/火箭丘丘人"
                         }
                     ]
                 },
                 "secondHalf": {
                     "enemies": [
                         {
-                            "nameCn":"丘丘岩盔王",
-                            "biligameUrl":"https://wiki.biligame.com/ys/丘丘岩盔王"
+                            "nameCn": "丘丘岩盔王",
+                            "biligameUrl": "https://wiki.biligame.com/ys/丘丘岩盔王"
                         },
                         {
-                            "nameCn":"火箭丘丘人",
-                            "biligameUrl":"https://wiki.biligame.com/ys/火箭丘丘人"
+                            "nameCn": "火箭丘丘人",
+                            "biligameUrl": "https://wiki.biligame.com/ys/火箭丘丘人"
                         },
                         {
-                            "nameCn":"冰箭丘丘人",
-                            "biligameUrl":"https://wiki.biligame.com/ys/冰箭丘丘人"
+                            "nameCn": "冰箭丘丘人",
+                            "biligameUrl": "https://wiki.biligame.com/ys/冰箭丘丘人"
                         }
                     ]
                 }
@@ -212,40 +212,40 @@
                 "firstHalf": {
                     "enemies": [
                         {
-                            "nameCn":"愚人众·火之债务处理人",
-                            "biligameUrl":"https://wiki.biligame.com/ys/愚人众·火之债务处理人"
+                            "nameCn": "愚人众·火之债务处理人",
+                            "biligameUrl": "https://wiki.biligame.com/ys/愚人众·火之债务处理人"
                         },
                         {
-                            "nameCn":"愚人众先遣队·冰铳重卫士",
-                            "biligameUrl":"https://wiki.biligame.com/ys/愚人众先遣队·冰铳重卫士"
+                            "nameCn": "愚人众先遣队·冰铳重卫士",
+                            "biligameUrl": "https://wiki.biligame.com/ys/愚人众先遣队·冰铳重卫士"
                         },
                         {
-                            "nameCn":"愚人众先遣队·水铳重卫士",
-                            "biligameUrl":"https://wiki.biligame.com/ys/愚人众先遣队·水铳重卫士"
+                            "nameCn": "愚人众先遣队·水铳重卫士",
+                            "biligameUrl": "https://wiki.biligame.com/ys/愚人众先遣队·水铳重卫士"
                         },
                         {
-                            "nameCn":"愚人众先遣队·风拳前锋军",
-                            "biligameUrl":"https://wiki.biligame.com/ys/愚人众先遣队·风拳前锋军"
+                            "nameCn": "愚人众先遣队·风拳前锋军",
+                            "biligameUrl": "https://wiki.biligame.com/ys/愚人众先遣队·风拳前锋军"
                         }
                     ]
                 },
                 "secondHalf": {
                     "enemies": [
                         {
-                            "nameCn":"愚人众·雷萤术士",
-                            "biligameUrl":"https://wiki.biligame.com/ys/愚人众·雷萤术士"
+                            "nameCn": "愚人众·雷萤术士",
+                            "biligameUrl": "https://wiki.biligame.com/ys/愚人众·雷萤术士"
                         },
                         {
-                            "nameCn":"愚人众先遣队·火铳游击兵",
-                            "biligameUrl":"https://wiki.biligame.com/ys/愚人众先遣队·火铳游击兵"
+                            "nameCn": "愚人众先遣队·火铳游击兵",
+                            "biligameUrl": "https://wiki.biligame.com/ys/愚人众先遣队·火铳游击兵"
                         },
                         {
-                            "nameCn":"愚人众先遣队·岩使游击兵",
-                            "biligameUrl":"https://wiki.biligame.com/ys/愚人众先遣队·岩使游击兵"
+                            "nameCn": "愚人众先遣队·岩使游击兵",
+                            "biligameUrl": "https://wiki.biligame.com/ys/愚人众先遣队·岩使游击兵"
                         },
                         {
-                            "nameCn":"愚人众先遣队·雷锤前锋军",
-                            "biligameUrl":"https://wiki.biligame.com/ys/愚人众先遣队·雷锤前锋军"
+                            "nameCn": "愚人众先遣队·雷锤前锋军",
+                            "biligameUrl": "https://wiki.biligame.com/ys/愚人众先遣队·雷锤前锋军"
                         }
                     ]
                 }
@@ -255,28 +255,28 @@
                 "firstHalf": {
                     "enemies": [
                         {
-                            "nameCn":"深渊咏者·紫电",
-                            "biligameUrl":"https://wiki.biligame.com/ys/深渊咏者·紫电"
+                            "nameCn": "深渊咏者·紫电",
+                            "biligameUrl": "https://wiki.biligame.com/ys/深渊咏者·紫电"
                         },
                         {
-                            "nameCn":"水丘丘萨满",
-                            "biligameUrl":"https://wiki.biligame.com/ys/水丘丘萨满"
+                            "nameCn": "水丘丘萨满",
+                            "biligameUrl": "https://wiki.biligame.com/ys/水丘丘萨满"
                         },
                         {
-                            "nameCn":"风丘丘萨满",
-                            "biligameUrl":"https://wiki.biligame.com/ys/风丘丘萨满"
+                            "nameCn": "风丘丘萨满",
+                            "biligameUrl": "https://wiki.biligame.com/ys/风丘丘萨满"
                         }
                     ]
                 },
                 "secondHalf": {
                     "enemies": [
                         {
-                            "nameCn":"深渊使徒·激流",
-                            "biligameUrl":"https://wiki.biligame.com/ys/深渊使徒·激流"
+                            "nameCn": "深渊使徒·激流",
+                            "biligameUrl": "https://wiki.biligame.com/ys/深渊使徒·激流"
                         },
                         {
-                            "nameCn":"雷丘丘萨满",
-                            "biligameUrl":"https://wiki.biligame.com/ys/雷丘丘萨满"
+                            "nameCn": "雷丘丘萨满",
+                            "biligameUrl": "https://wiki.biligame.com/ys/雷丘丘萨满"
                         }
                     ]
                 }
@@ -288,60 +288,60 @@
                 "firstHalf": {
                     "enemies": [
                         {
-                            "nameCn":"大型冰史莱姆",
-                            "biligameUrl":"https://wiki.biligame.com/ys/大型冰史莱姆"
+                            "nameCn": "大型冰史莱姆",
+                            "biligameUrl": "https://wiki.biligame.com/ys/大型冰史莱姆"
                         },
                         {
-                            "nameCn":"冰史莱姆",
-                            "biligameUrl":"https://wiki.biligame.com/ys/冰史莱姆"
+                            "nameCn": "冰史莱姆",
+                            "biligameUrl": "https://wiki.biligame.com/ys/冰史莱姆"
                         },
                         {
-                            "nameCn":"冰飘浮灵",
-                            "biligameUrl":"https://wiki.biligame.com/ys/冰飘浮灵"
+                            "nameCn": "冰飘浮灵",
+                            "biligameUrl": "https://wiki.biligame.com/ys/冰飘浮灵"
                         },
                         {
-                            "nameCn":"水飘浮灵",
-                            "biligameUrl":"https://wiki.biligame.com/ys/水飘浮灵"
+                            "nameCn": "水飘浮灵",
+                            "biligameUrl": "https://wiki.biligame.com/ys/水飘浮灵"
                         },
                         {
-                            "nameCn":"冰盾丘丘暴徒",
-                            "biligameUrl":"https://wiki.biligame.com/ys/冰盾丘丘暴徒"
+                            "nameCn": "冰盾丘丘暴徒",
+                            "biligameUrl": "https://wiki.biligame.com/ys/冰盾丘丘暴徒"
                         }
                     ]
                 },
                 "secondHalf": {
                     "enemies": [
                         {
-                            "nameCn":"盗宝团·粉碎者",
-                            "biligameUrl":"https://wiki.biligame.com/ys/盗宝团·粉碎者"
+                            "nameCn": "盗宝团·粉碎者",
+                            "biligameUrl": "https://wiki.biligame.com/ys/盗宝团·粉碎者"
                         },
                         {
-                            "nameCn":"盗宝团·水之药剂师",
-                            "biligameUrl":"https://wiki.biligame.com/ys/盗宝团·水之药剂师"
+                            "nameCn": "盗宝团·水之药剂师",
+                            "biligameUrl": "https://wiki.biligame.com/ys/盗宝团·水之药剂师"
                         },
                         {
-                            "nameCn":"盗宝团·火之药剂师",
-                            "biligameUrl":"https://wiki.biligame.com/ys/盗宝团·火之药剂师"
+                            "nameCn": "盗宝团·火之药剂师",
+                            "biligameUrl": "https://wiki.biligame.com/ys/盗宝团·火之药剂师"
                         },
                         {
-                            "nameCn":"盗宝团·雷之药剂师",
-                            "biligameUrl":"https://wiki.biligame.com/ys/盗宝团·雷之药剂师"
+                            "nameCn": "盗宝团·雷之药剂师",
+                            "biligameUrl": "https://wiki.biligame.com/ys/盗宝团·雷之药剂师"
                         },
                         {
-                            "nameCn":"盗宝团·拳术家",
-                            "biligameUrl":"https://wiki.biligame.com/ys/盗宝团·拳术家"
+                            "nameCn": "盗宝团·拳术家",
+                            "biligameUrl": "https://wiki.biligame.com/ys/盗宝团·拳术家"
                         },
                         {
-                            "nameCn":"盗宝团·海上男儿",
-                            "biligameUrl":"https://wiki.biligame.com/ys/盗宝团·海上男儿"
+                            "nameCn": "盗宝团·海上男儿",
+                            "biligameUrl": "https://wiki.biligame.com/ys/盗宝团·海上男儿"
                         },
                         {
-                            "nameCn":"盗宝团·冰之药剂师",
-                            "biligameUrl":"https://wiki.biligame.com/ys/盗宝团·冰之药剂师"
+                            "nameCn": "盗宝团·冰之药剂师",
+                            "biligameUrl": "https://wiki.biligame.com/ys/盗宝团·冰之药剂师"
                         },
                         {
-                            "nameCn":"盗宝团·掘墓者",
-                            "biligameUrl":"https://wiki.biligame.com/ys/盗宝团·掘墓者"
+                            "nameCn": "盗宝团·掘墓者",
+                            "biligameUrl": "https://wiki.biligame.com/ys/盗宝团·掘墓者"
                         }
                     ]
                 }
@@ -351,52 +351,52 @@
                 "firstHalf": {
                     "enemies": [
                         {
-                            "nameCn":"冰飘浮灵",
-                            "biligameUrl":"https://wiki.biligame.com/ys/冰飘浮灵"
+                            "nameCn": "冰飘浮灵",
+                            "biligameUrl": "https://wiki.biligame.com/ys/冰飘浮灵"
                         },
                         {
-                            "nameCn":"水飘浮灵",
-                            "biligameUrl":"https://wiki.biligame.com/ys/水飘浮灵"
+                            "nameCn": "水飘浮灵",
+                            "biligameUrl": "https://wiki.biligame.com/ys/水飘浮灵"
                         },
                         {
-                            "nameCn":"雷飘浮灵",
-                            "biligameUrl":"https://wiki.biligame.com/ys/雷飘浮灵"
+                            "nameCn": "雷飘浮灵",
+                            "biligameUrl": "https://wiki.biligame.com/ys/雷飘浮灵"
                         },
                         {
-                            "nameCn":"深海龙蜥幼体·啮冰",
-                            "biligameUrl":"https://wiki.biligame.com/ys/深海龙蜥幼体·啮冰"
+                            "nameCn": "深海龙蜥幼体·啮冰",
+                            "biligameUrl": "https://wiki.biligame.com/ys/深海龙蜥幼体·啮冰"
                         },
                         {
-                            "nameCn":"深海龙蜥幼体·吞雷",
-                            "biligameUrl":"https://wiki.biligame.com/ys/深海龙蜥幼体·吞雷"
+                            "nameCn": "深海龙蜥幼体·吞雷",
+                            "biligameUrl": "https://wiki.biligame.com/ys/深海龙蜥幼体·吞雷"
                         }
                     ]
                 },
                 "secondHalf": {
                     "enemies": [
                         {
-                            "nameCn":"愚人众先遣队·冰铳重卫士",
-                            "biligameUrl":"https://wiki.biligame.com/ys/愚人众先遣队·冰铳重卫士"
+                            "nameCn": "愚人众先遣队·冰铳重卫士",
+                            "biligameUrl": "https://wiki.biligame.com/ys/愚人众先遣队·冰铳重卫士"
                         },
                         {
-                            "nameCn":"愚人众先遣队·火铳游击兵",
-                            "biligameUrl":"https://wiki.biligame.com/ys/愚人众先遣队·火铳游击兵"
+                            "nameCn": "愚人众先遣队·火铳游击兵",
+                            "biligameUrl": "https://wiki.biligame.com/ys/愚人众先遣队·火铳游击兵"
                         },
                         {
-                            "nameCn":"愚人众先遣队·水铳重卫士",
-                            "biligameUrl":"https://wiki.biligame.com/ys/愚人众先遣队·水铳重卫士"
+                            "nameCn": "愚人众先遣队·水铳重卫士",
+                            "biligameUrl": "https://wiki.biligame.com/ys/愚人众先遣队·水铳重卫士"
                         },
                         {
-                            "nameCn":"愚人众·雷萤术士",
-                            "biligameUrl":"https://wiki.biligame.com/ys/愚人众·雷萤术士"
+                            "nameCn": "愚人众·雷萤术士",
+                            "biligameUrl": "https://wiki.biligame.com/ys/愚人众·雷萤术士"
                         },
                         {
-                            "nameCn":"愚人众·火之债务处理人",
-                            "biligameUrl":"https://wiki.biligame.com/ys/愚人众·火之债务处理人"
+                            "nameCn": "愚人众·火之债务处理人",
+                            "biligameUrl": "https://wiki.biligame.com/ys/愚人众·火之债务处理人"
                         },
                         {
-                            "nameCn":"愚人众·冰萤术士",
-                            "biligameUrl":"https://wiki.biligame.com/ys/愚人众·冰萤术士"
+                            "nameCn": "愚人众·冰萤术士",
+                            "biligameUrl": "https://wiki.biligame.com/ys/愚人众·冰萤术士"
                         }
                     ]
                 }
@@ -406,24 +406,24 @@
                 "firstHalf": {
                     "enemies": [
                         {
-                            "nameCn":"雷音权现",
-                            "biligameUrl":"https://wiki.biligame.com/ys/雷音权现"
+                            "nameCn": "雷音权现",
+                            "biligameUrl": "https://wiki.biligame.com/ys/雷音权现"
                         }
                     ]
                 },
                 "secondHalf": {
                     "enemies": [
                         {
-                            "nameCn":"雷深渊法师",
-                            "biligameUrl":"https://wiki.biligame.com/ys/雷深渊法师"
+                            "nameCn": "雷深渊法师",
+                            "biligameUrl": "https://wiki.biligame.com/ys/雷深渊法师"
                         },
                         {
-                            "nameCn":"冰深渊法师",
-                            "biligameUrl":"https://wiki.biligame.com/ys/冰深渊法师"
+                            "nameCn": "冰深渊法师",
+                            "biligameUrl": "https://wiki.biligame.com/ys/冰深渊法师"
                         },
                         {
-                            "nameCn":"水深渊法师",
-                            "biligameUrl":"https://wiki.biligame.com/ys/水深渊法师"
+                            "nameCn": "水深渊法师",
+                            "biligameUrl": "https://wiki.biligame.com/ys/水深渊法师"
                         }
                     ]
                 }
@@ -435,56 +435,56 @@
                 "firstHalf": {
                     "enemies": [
                         {
-                            "nameCn":"冰盾丘丘人",
-                            "biligameUrl":"https://wiki.biligame.com/ys/冰盾丘丘人"
+                            "nameCn": "冰盾丘丘人",
+                            "biligameUrl": "https://wiki.biligame.com/ys/冰盾丘丘人"
                         },
                         {
-                            "nameCn":"冰丘丘萨满",
-                            "biligameUrl":"https://wiki.biligame.com/ys/冰丘丘萨满"
+                            "nameCn": "冰丘丘萨满",
+                            "biligameUrl": "https://wiki.biligame.com/ys/冰丘丘萨满"
                         },
                         {
-                            "nameCn":"火箭丘丘人",
-                            "biligameUrl":"https://wiki.biligame.com/ys/火箭丘丘人"
+                            "nameCn": "火箭丘丘人",
+                            "biligameUrl": "https://wiki.biligame.com/ys/火箭丘丘人"
                         },
                         {
-                            "nameCn":"雷箭丘丘人",
-                            "biligameUrl":"https://wiki.biligame.com/ys/雷箭丘丘人"
+                            "nameCn": "雷箭丘丘人",
+                            "biligameUrl": "https://wiki.biligame.com/ys/雷箭丘丘人"
                         },
                         {
-                            "nameCn":"冰箭丘丘人",
-                            "biligameUrl":"https://wiki.biligame.com/ys/冰箭丘丘人"
+                            "nameCn": "冰箭丘丘人",
+                            "biligameUrl": "https://wiki.biligame.com/ys/冰箭丘丘人"
                         },
                         {
-                            "nameCn":"冰盾丘丘暴徒",
-                            "biligameUrl":"https://wiki.biligame.com/ys/冰盾丘丘暴徒"
+                            "nameCn": "冰盾丘丘暴徒",
+                            "biligameUrl": "https://wiki.biligame.com/ys/冰盾丘丘暴徒"
                         },
                         {
-                            "nameCn":"丘丘霜铠王",
-                            "biligameUrl":"https://wiki.biligame.com/ys/丘丘霜铠王"
+                            "nameCn": "丘丘霜铠王",
+                            "biligameUrl": "https://wiki.biligame.com/ys/丘丘霜铠王"
                         }
                     ]
                 },
                 "secondHalf": {
                     "enemies": [
                         {
-                            "nameCn":"野伏·火付番",
-                            "biligameUrl":"https://wiki.biligame.com/ys/野伏·火付番"
+                            "nameCn": "野伏·火付番",
+                            "biligameUrl": "https://wiki.biligame.com/ys/野伏·火付番"
                         },
                         {
-                            "nameCn":"野伏·阵刀番",
-                            "biligameUrl":"https://wiki.biligame.com/ys/野伏·阵刀番"
+                            "nameCn": "野伏·阵刀番",
+                            "biligameUrl": "https://wiki.biligame.com/ys/野伏·阵刀番"
                         },
                         {
-                            "nameCn":"野伏·机巧番",
-                            "biligameUrl":"https://wiki.biligame.com/ys/野伏·机巧番"
+                            "nameCn": "野伏·机巧番",
+                            "biligameUrl": "https://wiki.biligame.com/ys/野伏·机巧番"
                         },
                         {
-                            "nameCn":"海乱鬼·炎威",
-                            "biligameUrl":"https://wiki.biligame.com/ys/海乱鬼·炎威"
+                            "nameCn": "海乱鬼·炎威",
+                            "biligameUrl": "https://wiki.biligame.com/ys/海乱鬼·炎威"
                         },
                         {
-                            "nameCn":"海乱鬼·雷腾",
-                            "biligameUrl":"https://wiki.biligame.com/ys/海乱鬼·雷腾"
+                            "nameCn": "海乱鬼·雷腾",
+                            "biligameUrl": "https://wiki.biligame.com/ys/海乱鬼·雷腾"
                         }
                     ]
                 }
@@ -494,28 +494,28 @@
                 "firstHalf": {
                     "enemies": [
                         {
-                            "nameCn":"无相之冰",
-                            "biligameUrl":"https://wiki.biligame.com/ys/无相之冰"
+                            "nameCn": "无相之冰",
+                            "biligameUrl": "https://wiki.biligame.com/ys/无相之冰"
                         }
                     ]
                 },
                 "secondHalf": {
                     "enemies": [
                         {
-                            "nameCn":"遗迹巡弋者",
-                            "biligameUrl":"https://wiki.biligame.com/ys/遗迹巡弋者"
+                            "nameCn": "遗迹巡弋者",
+                            "biligameUrl": "https://wiki.biligame.com/ys/遗迹巡弋者"
                         },
                         {
-                            "nameCn":"遗迹侦察者",
-                            "biligameUrl":"https://wiki.biligame.com/ys/遗迹侦察者"
+                            "nameCn": "遗迹侦察者",
+                            "biligameUrl": "https://wiki.biligame.com/ys/遗迹侦察者"
                         },
                         {
-                            "nameCn":"遗迹歼击者",
-                            "biligameUrl":"https://wiki.biligame.com/ys/遗迹歼击者"
+                            "nameCn": "遗迹歼击者",
+                            "biligameUrl": "https://wiki.biligame.com/ys/遗迹歼击者"
                         },
                         {
-                            "nameCn":"遗迹重机",
-                            "biligameUrl":"https://wiki.biligame.com/ys/遗迹重机"
+                            "nameCn": "遗迹重机",
+                            "biligameUrl": "https://wiki.biligame.com/ys/遗迹重机"
                         }
                     ]
                 }
@@ -525,20 +525,574 @@
                 "firstHalf": {
                     "enemies": [
                         {
-                            "nameCn":"愚人众·藏镜仕女",
-                            "biligameUrl":"https://wiki.biligame.com/ys/愚人众·藏镜仕女"
+                            "nameCn": "愚人众·藏镜仕女",
+                            "biligameUrl": "https://wiki.biligame.com/ys/愚人众·藏镜仕女"
                         },
                         {
-                            "nameCn":"愚人众先遣队·冰铳重卫士",
-                            "biligameUrl":"https://wiki.biligame.com/ys/愚人众先遣队·冰铳重卫士"
+                            "nameCn": "愚人众先遣队·冰铳重卫士",
+                            "biligameUrl": "https://wiki.biligame.com/ys/愚人众先遣队·冰铳重卫士"
                         }
                     ]
                 },
                 "secondHalf": {
                     "enemies": [
                         {
-                            "nameCn":"遗迹巨蛇",
-                            "biligameUrl":"https://wiki.biligame.com/ys/遗迹巨蛇"
+                            "nameCn": "遗迹巨蛇",
+                            "biligameUrl": "https://wiki.biligame.com/ys/遗迹巨蛇"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    "September 1, 2022 - Current": {
+        "floor9": {
+            "chamber1": {
+                "enemyLevel": 72,
+                "firstHalf": {
+                    "enemies": [
+                        {
+                            "nameCn": "水史莱姆",
+                            "biligameUrl": "https://wiki.biligame.com/ys/水史莱姆"
+                        },
+                        {
+                            "nameCn": "伸缩火蕈兽",
+                            "biligameUrl": "https://wiki.biligame.com/ys/伸缩火蕈兽"
+                        },
+                        {
+                            "nameCn": "旋转冰蕈兽",
+                            "biligameUrl": "https://wiki.biligame.com/ys/旋转冰蕈兽"
+                        },
+                        {
+                            "nameCn": "浮游水蕈兽",
+                            "biligameUrl": "https://wiki.biligame.com/ys/浮游水蕈兽"
+                        },
+                        {
+                            "nameCn": "旋转雷蕈兽",
+                            "biligameUrl": "https://wiki.biligame.com/ys/旋转雷蕈兽"
+                        },
+                        {
+                            "nameCn": "浮游草蕈兽",
+                            "biligameUrl": "https://wiki.biligame.com/ys/浮游草蕈兽"
+                        },
+                        {
+                            "nameCn": "伸缩岩蕈兽",
+                            "biligameUrl": "https://wiki.biligame.com/ys/伸缩岩蕈兽"
+                        },
+                        {
+                            "nameCn": "有翼冰本真蕈",
+                            "biligameUrl": "https://wiki.biligame.com/ys/有翼冰本真蕈"
+                        },
+                        {
+                            "nameCn": "大型水史莱姆",
+                            "biligameUrl": "https://wiki.biligame.com/ys/大型水史莱姆"
+                        }
+                    ]
+                },
+                "secondHalf": {
+                    "enemies": [
+                        {
+                            "nameCn": "镀金旅团·鸦喙戟手",
+                            "biligameUrl": "https://wiki.biligame.com/ys/镀金旅团·鸦喙戟手"
+                        },
+                        {
+                            "nameCn": "镀金旅团·破阵者",
+                            "biligameUrl": "https://wiki.biligame.com/ys/镀金旅团·破阵者"
+                        },
+                        {
+                            "nameCn": "镀金旅团·机弩兵",
+                            "biligameUrl": "https://wiki.biligame.com/ys/镀金旅团·机弩兵"
+                        },
+                        {
+                            "nameCn": "镀金旅团·阵前斧手",
+                            "biligameUrl": "https://wiki.biligame.com/ys/镀金旅团·阵前斧手"
+                        },
+                        {
+                            "nameCn": "镀金旅团·刀舞者",
+                            "biligameUrl": "https://wiki.biligame.com/ys/镀金旅团·刀舞者"
+                        }
+                    ]
+                }
+            },
+            "chamber2": {
+                "enemyLevel": 74,
+                "firstHalf": {
+                    "enemies": [
+                        {
+                            "nameCn": "冲锋丘丘人",
+                            "biligameUrl": "https://wiki.biligame.com/ys/冲锋丘丘人"
+                        },
+                        {
+                            "nameCn": "冰箭丘丘人",
+                            "biligameUrl": "https://wiki.biligame.com/ys/冰箭丘丘人"
+                        },
+                        {
+                            "nameCn": "雷箭丘丘人",
+                            "biligameUrl": "https://wiki.biligame.com/ys/雷箭丘丘人"
+                        },
+                        {
+                            "nameCn": "火斧丘丘暴徒",
+                            "biligameUrl": "https://wiki.biligame.com/ys/火斧丘丘暴徒"
+                        },
+                        {
+                            "nameCn": "岩盾丘丘暴徒",
+                            "biligameUrl": "https://wiki.biligame.com/ys/岩盾丘丘暴徒"
+                        },
+                        {
+                            "nameCn": "火箭丘丘人",
+                            "biligameUrl": "https://wiki.biligame.com/ys/火箭丘丘人"
+                        },
+                        {
+                            "nameCn": "岩丘丘萨满",
+                            "biligameUrl": "https://wiki.biligame.com/ys/岩丘丘萨满"
+                        },
+                        {
+                            "nameCn": "木盾丘丘暴徒",
+                            "biligameUrl": "https://wiki.biligame.com/ys/木盾丘丘暴徒"
+                        },
+                        {
+                            "nameCn": "木盾丘丘人",
+                            "biligameUrl": "https://wiki.biligame.com/ys/木盾丘丘人"
+                        },
+                        {
+                            "nameCn": "爆弹丘丘人",
+                            "biligameUrl": "https://wiki.biligame.com/ys/爆弹丘丘人"
+                        },
+                        {
+                            "nameCn": "冰丘丘萨满",
+                            "biligameUrl": "https://wiki.biligame.com/ys/冰丘丘萨满"
+                        }
+                    ]
+                },
+                "secondHalf": {
+                    "enemies": [
+                        {
+                            "nameCn": "草丘丘萨满",
+                            "biligameUrl": "https://wiki.biligame.com/ys/草丘丘萨满"
+                        },
+                        {
+                            "nameCn": "大型水史莱姆",
+                            "biligameUrl": "https://wiki.biligame.com/ys/大型水史莱姆"
+                        },
+                        {
+                            "nameCn": "大型火史莱姆",
+                            "biligameUrl": "https://wiki.biligame.com/ys/大型火史莱姆"
+                        },
+                        {
+                            "nameCn": "水深渊法师",
+                            "biligameUrl": "https://wiki.biligame.com/ys/水深渊法师"
+                        }
+                    ]
+                }
+            },
+            "chamber3": {
+                "enemyLevel": 76,
+                "firstHalf": {
+                    "enemies": [
+                        {
+                            "nameCn": "旋转雷蕈兽",
+                            "biligameUrl": "https://wiki.biligame.com/ys/旋转雷蕈兽"
+                        },
+                        {
+                            "nameCn": "有翼草本真蕈",
+                            "biligameUrl": "https://wiki.biligame.com/ys/有翼草本真蕈"
+                        },
+                        {
+                            "nameCn": "浮游草蕈兽",
+                            "biligameUrl": "https://wiki.biligame.com/ys/浮游草蕈兽"
+                        },
+                        {
+                            "nameCn": "陆行水本真蕈",
+                            "biligameUrl": "https://wiki.biligame.com/ys/陆行水本真蕈"
+                        }
+                    ]
+                },
+                "secondHalf": {
+                    "enemies": [
+                        {
+                            "nameCn": "镀金旅团·破阵者",
+                            "biligameUrl": "https://wiki.biligame.com/ys/镀金旅团·破阵者"
+                        },
+                        {
+                            "nameCn": "镀金旅团·白日鸣雷",
+                            "biligameUrl": "https://wiki.biligame.com/ys/镀金旅团·白日鸣雷"
+                        },
+                        {
+                            "nameCn": "镀金旅团·炽阳凝冰",
+                            "biligameUrl": "https://wiki.biligame.com/ys/镀金旅团·炽阳凝冰"
+                        }
+                    ]
+                }
+            }
+        },
+        "floor10": {
+            "chamber1": {
+                "enemyLevel": 80,
+                "firstHalf": {
+                    "enemies": [
+                        {
+                            "nameCn": "旋转雷蕈兽",
+                            "biligameUrl": "https://wiki.biligame.com/ys/旋转雷蕈兽"
+                        },
+                        {
+                            "nameCn": "浮游草蕈兽",
+                            "biligameUrl": "https://wiki.biligame.com/ys/浮游草蕈兽"
+                        },
+                        {
+                            "nameCn": "旋转冰蕈兽",
+                            "biligameUrl": "https://wiki.biligame.com/ys/旋转冰蕈兽"
+                        },
+                        {
+                            "nameCn": "雷史莱姆",
+                            "biligameUrl": "https://wiki.biligame.com/ys/雷史莱姆"
+                        },
+                        {
+                            "nameCn": "有翼冰本真蕈",
+                            "biligameUrl": "https://wiki.biligame.com/ys/有翼冰本真蕈"
+                        },
+                        {
+                            "nameCn": "变异雷史莱姆",
+                            "biligameUrl": "https://wiki.biligame.com/ys/变异雷史莱姆"
+                        },
+                        {
+                            "nameCn": "大型雷史莱姆",
+                            "biligameUrl": "https://wiki.biligame.com/ys/大型雷史莱姆"
+                        }
+                    ]
+                },
+                "secondHalf": {
+                    "enemies": [
+                        {
+                            "nameCn": "深海龙蜥·原种",
+                            "biligameUrl": "https://wiki.biligame.com/ys/深海龙蜥·原种"
+                        }
+                    ]
+                }
+            },
+            "chamber2": {
+                "enemyLevel": 82,
+                "firstHalf": {
+                    "enemies": [
+                        {
+                            "nameCn": "海乱鬼·雷腾",
+                            "biligameUrl": "https://wiki.biligame.com/ys/海乱鬼·雷腾"
+                        },
+                        {
+                            "nameCn": "海乱鬼·炎威",
+                            "biligameUrl": "https://wiki.biligame.com/ys/海乱鬼·炎威"
+                        },
+                        {
+                            "nameCn": "镀金旅团·机弩兵",
+                            "biligameUrl": "https://wiki.biligame.com/ys/镀金旅团·机弩兵"
+                        }
+                    ]
+                },
+                "secondHalf": {
+                    "enemies": [
+                        {
+                            "nameCn": "丘丘雷兜王",
+                            "biligameUrl": "https://wiki.biligame.com/ys/丘丘雷兜王"
+                        },
+                        {
+                            "nameCn": "雷深渊法师",
+                            "biligameUrl": "https://wiki.biligame.com/ys/雷深渊法师"
+                        }
+                    ]
+                }
+            },
+            "chamber3": {
+                "enemyLevel": 85,
+                "firstHalf": {
+                    "enemies": [
+                        {
+                            "nameCn": "镀金旅团·沙中净水",
+                            "biligameUrl": "https://wiki.biligame.com/ys/镀金旅团·沙中净水"
+                        },
+                        {
+                            "nameCn": "愚人众先遣队·火铳游击兵",
+                            "biligameUrl": "https://wiki.biligame.com/ys/愚人众先遣队·火铳游击兵"
+                        },
+                        {
+                            "nameCn": "愚人众先遣队·水铳重卫士",
+                            "biligameUrl": "https://wiki.biligame.com/ys/愚人众先遣队·水铳重卫士"
+                        },
+                        {
+                            "nameCn": "镀金旅团·白日鸣雷",
+                            "biligameUrl": "https://wiki.biligame.com/ys/镀金旅团·白日鸣雷"
+                        },
+                        {
+                            "nameCn": "镀金旅团·炽阳凝冰",
+                            "biligameUrl": "https://wiki.biligame.com/ys/镀金旅团·炽阳凝冰"
+                        }
+                    ]
+                },
+                "secondHalf": {
+                    "enemies": [
+                        {
+                            "nameCn": "愚人众·藏镜仕女",
+                            "biligameUrl": "https://wiki.biligame.com/ys/愚人众·藏镜仕女"
+                        },
+                        {
+                            "nameCn": "愚人众·雷萤术士",
+                            "biligameUrl": "https://wiki.biligame.com/ys/愚人众·雷萤术士"
+                        }
+                    ]
+                }
+            }
+        },
+        "floor11": {
+            "chamber1": {
+                "enemyLevel": 88,
+                "firstHalf": {
+                    "enemies": [
+                        {
+                            "nameCn": "镀金旅团·破阵者",
+                            "biligameUrl": "https://wiki.biligame.com/ys/镀金旅团·破阵者"
+                        },
+                        {
+                            "nameCn": "盗宝团·粉碎者",
+                            "biligameUrl": "https://wiki.biligame.com/ys/盗宝团·粉碎者"
+                        },
+                        {
+                            "nameCn": "盗宝团·雷之药剂师",
+                            "biligameUrl": "https://wiki.biligame.com/ys/盗宝团·雷之药剂师"
+                        },
+                        {
+                            "nameCn": "盗宝团·火之药剂师",
+                            "biligameUrl": "https://wiki.biligame.com/ys/盗宝团·火之药剂师"
+                        },
+                        {
+                            "nameCn": "镀金旅团·鸦喙戟手",
+                            "biligameUrl": "https://wiki.biligame.com/ys/镀金旅团·鸦喙戟手"
+                        },
+                        {
+                            "nameCn": "盗宝团·水之药剂师",
+                            "biligameUrl": "https://wiki.biligame.com/ys/盗宝团·水之药剂师"
+                        },
+                        {
+                            "nameCn": "盗宝团·冰之药剂师",
+                            "biligameUrl": "https://wiki.biligame.com/ys/盗宝团·冰之药剂师"
+                        },
+                        {
+                            "nameCn": "镀金旅团·白日鸣雷",
+                            "biligameUrl": "https://wiki.biligame.com/ys/镀金旅团·白日鸣雷"
+                        },
+                        {
+                            "nameCn": "镀金旅团·阵前斧手",
+                            "biligameUrl": "https://wiki.biligame.com/ys/镀金旅团·阵前斧手"
+                        },
+                        {
+                            "nameCn": "镀金旅团·机弩兵",
+                            "biligameUrl": "https://wiki.biligame.com/ys/镀金旅团·机弩兵"
+                        }
+                    ]
+                },
+                "secondHalf": {
+                    "enemies": [
+                        {
+                            "nameCn": "木盾丘丘暴徒",
+                            "biligameUrl": "https://wiki.biligame.com/ys/木盾丘丘暴徒"
+                        },
+                        {
+                            "nameCn": "火斧丘丘暴徒",
+                            "biligameUrl": "https://wiki.biligame.com/ys/火斧丘丘暴徒"
+                        },
+                        {
+                            "nameCn": "雷斧丘丘暴徒",
+                            "biligameUrl": "https://wiki.biligame.com/ys/雷斧丘丘暴徒"
+                        },
+                        {
+                            "nameCn": "丘丘雷兜王",
+                            "biligameUrl": "https://wiki.biligame.com/ys/丘丘雷兜王"
+                        }
+                    ]
+                }
+            },
+            "chamber2": {
+                "enemyLevel": 90,
+                "firstHalf": {
+                    "enemies": [
+                        {
+                            "nameCn": "幻形豕兽·水",
+                            "biligameUrl": "https://wiki.biligame.com/ys/幻形豕兽·水"
+                        },
+                        {
+                            "nameCn": "幻形蛙·水",
+                            "biligameUrl": "https://wiki.biligame.com/ys/幻形蛙·水"
+                        },
+                        {
+                            "nameCn": "幻形飞鹰·水",
+                            "biligameUrl": "https://wiki.biligame.com/ys/幻形飞鹰·水"
+                        },
+                        {
+                            "nameCn": "幻形雀·水",
+                            "biligameUrl": "https://wiki.biligame.com/ys/幻形雀·水"
+                        },
+                        {
+                            "nameCn": "幻形游禽·水",
+                            "biligameUrl": "https://wiki.biligame.com/ys/幻形游禽·水"
+                        },
+                        {
+                            "nameCn": "幻形鹤·水",
+                            "biligameUrl": "https://wiki.biligame.com/ys/幻形鹤·水"
+                        },
+                        {
+                            "nameCn": "幻形花鼠·水",
+                            "biligameUrl": "https://wiki.biligame.com/ys/幻形花鼠·水"
+                        },
+                        {
+                            "nameCn": "幻形蟹·水",
+                            "biligameUrl": "https://wiki.biligame.com/ys/幻形蟹·水"
+                        }
+                    ]
+                },
+                "secondHalf": {
+                    "enemies": [
+                        {
+                            "nameCn": "岩龙蜥",
+                            "biligameUrl": "https://wiki.biligame.com/ys/岩龙蜥"
+                        }
+                    ]
+                }
+            },
+            "chamber3": {
+                "enemyLevel": 92,
+                "firstHalf": {
+                    "enemies": [
+                        {
+                            "nameCn": "镀金旅团·机弩兵",
+                            "biligameUrl": "https://wiki.biligame.com/ys/镀金旅团·机弩兵"
+                        },
+                        {
+                            "nameCn": "愚人众·火之债务处理人",
+                            "biligameUrl": "https://wiki.biligame.com/ys/愚人众·火之债务处理人"
+                        },
+                        {
+                            "nameCn": "镀金旅团·沙中净水",
+                            "biligameUrl": "https://wiki.biligame.com/ys/镀金旅团·沙中净水"
+                        },
+                        {
+                            "nameCn": "愚人众先遣队·火铳游击兵",
+                            "biligameUrl": "https://wiki.biligame.com/ys/愚人众先遣队·火铳游击兵"
+                        },
+                        {
+                            "nameCn": "镀金旅团·白日鸣雷",
+                            "biligameUrl": "https://wiki.biligame.com/ys/镀金旅团·白日鸣雷"
+                        }
+                    ]
+                },
+                "secondHalf": {
+                    "enemies": [
+                        {
+                            "nameCn": "掣电树",
+                            "biligameUrl": "https://wiki.biligame.com/ys/掣电树"
+                        }
+                    ]
+                }
+            }
+        },
+        "floor12": {
+            "chamber1": {
+                "enemyLevel": 95,
+                "firstHalf": {
+                    "enemies": [
+                        {
+                            "nameCn": "遗迹龙兽·地巡",
+                            "biligameUrl": "https://wiki.biligame.com/ys/遗迹龙兽·地巡"
+                        },
+                        {
+                            "nameCn": "遗迹龙兽·空巡",
+                            "biligameUrl": "https://wiki.biligame.com/ys/遗迹龙兽·空巡"
+                        }
+                    ]
+                },
+                "secondHalf": {
+                    "enemies": [
+                        {
+                            "nameCn": "愚人众先遣队·火铳游击兵",
+                            "biligameUrl": "https://wiki.biligame.com/ys/愚人众先遣队·火铳游击兵"
+                        },
+                        {
+                            "nameCn": "镀金旅团·沙中净水",
+                            "biligameUrl": "https://wiki.biligame.com/ys/镀金旅团·沙中净水"
+                        },
+                        {
+                            "nameCn": "镀金旅团·机弩兵",
+                            "biligameUrl": "https://wiki.biligame.com/ys/镀金旅团·机弩兵"
+                        },
+                        {
+                            "nameCn": "镀金旅团·炽阳凝冰",
+                            "biligameUrl": "https://wiki.biligame.com/ys/镀金旅团·炽阳凝冰"
+                        },
+                        {
+                            "nameCn": "愚人众先遣队·雷锤前锋军",
+                            "biligameUrl": "https://wiki.biligame.com/ys/愚人众先遣队·雷锤前锋军"
+                        }
+                    ]
+                }
+            },
+            "chamber2": {
+                "enemyLevel": 98,
+                "firstHalf": {
+                    "enemies": [
+                        {
+                            "nameCn": "愚人众·藏镜仕女",
+                            "biligameUrl": "https://wiki.biligame.com/ys/愚人众·藏镜仕女"
+                        },
+                        {
+                            "nameCn": "镀金旅团·机弩兵",
+                            "biligameUrl": "https://wiki.biligame.com/ys/镀金旅团·机弩兵"
+                        },
+                        {
+                            "nameCn": "愚人众·雷萤术士",
+                            "biligameUrl": "https://wiki.biligame.com/ys/愚人众·雷萤术士"
+                        }
+                    ]
+                },
+                "secondHalf": {
+                    "enemies": [
+                        {
+                            "nameCn": "古岩龙蜥",
+                            "biligameUrl": "https://wiki.biligame.com/ys/古岩龙蜥"
+                        }
+                    ]
+                }
+            },
+            "chamber3": {
+                "enemyLevel": 100,
+                "firstHalf": {
+                    "enemies": [
+                        {
+                            "nameCn": "深海龙蜥·原种",
+                            "biligameUrl": "https://wiki.biligame.com/ys/深海龙蜥·原种"
+                        },
+                        {
+                            "nameCn": "深海龙蜥幼体·啮冰",
+                            "biligameUrl": "https://wiki.biligame.com/ys/深海龙蜥幼体·啮冰"
+                        },
+                        {
+                            "nameCn": "深海龙蜥幼体·吞雷",
+                            "biligameUrl": "https://wiki.biligame.com/ys/深海龙蜥幼体·吞雷"
+                        },
+                        {
+                            "nameCn": "陆行水本真蕈",
+                            "biligameUrl": "https://wiki.biligame.com/ys/陆行水本真蕈"
+                        },
+                        {
+                            "nameCn": "有翼冰本真蕈",
+                            "biligameUrl": "https://wiki.biligame.com/ys/有翼冰本真蕈"
+                        },
+                        {
+                            "nameCn": "有翼草本真蕈",
+                            "biligameUrl": "https://wiki.biligame.com/ys/有翼草本真蕈"
+                        }
+                    ]
+                },
+                "secondHalf": {
+                    "enemies": [
+                        {
+                            "nameCn": "翠翎恐蕈",
+                            "biligameUrl": "https://wiki.biligame.com/ys/翠翎恐蕈"
                         }
                     ]
                 }
